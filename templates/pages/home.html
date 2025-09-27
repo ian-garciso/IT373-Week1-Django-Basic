@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block title %}Home{% endblock title%}
+{% block content %}
+
+    <h1>Welcome to week1</h1>
+    <p>sasvahtbefvwcarfdsf</p>
+
+    <ul>
+        <li>Course: {{ course }}</li>
+        <li>Week: {{ week1 }}</li>
+    </ul>
+
+    <p>Try the <a href="{% url 'about' %}">About</a> page</p>
+{% endblock content %}

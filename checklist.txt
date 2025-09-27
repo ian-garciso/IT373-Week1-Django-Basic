@@ -1,0 +1,8 @@
+Environment Checklist
+---------------------
+✔ Python version: 3.13.2
+✔ Virtual environment: Active (.venv)
+✔ Django version: 5.2.6
+✔ Runserver: Working at http://127.0.0.1:8000/
+✔ Git remote: Set to https://github.com/ian-garciso/IT373-Week1-Django-Basic
+.git
